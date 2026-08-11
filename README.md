@@ -7,16 +7,16 @@ Endereço oficial do kit de assinaturas da Mouves Contabilidade, Finanças e Con
 Depois de publicado, o kit responde em:
 
 ```
-https://SEU-USUARIO.github.io/assinaturas/
+https://devrm-br.github.io/assinaturas/
 ```
 
 E o logo em:
 
 ```
-https://SEU-USUARIO.github.io/assinaturas/logo-assinatura-mouves.png
+https://devrm-br.github.io/assinaturas/logo-assinatura-mouves.png
 ```
 
-Troque `SEU-USUARIO` pelo usuário ou pela organização que hospeda o repositório.
+Publicado em 11/08/2026. O endereço não muda enquanto o repositório mantiver o nome `assinaturas` na conta `devrm-br`.
 
 ## Arquivos
 
@@ -27,13 +27,9 @@ Troque `SEU-USUARIO` pelo usuário ou pela organização que hospeda o repositó
 | `robots.txt` | Pede que buscadores não indexem a página |
 | `.nojekyll` | Desliga o processamento do Jekyll no GitHub Pages |
 
-## Como publicar
+## Publicação
 
-1. No GitHub, clique em **New repository**. Nome `assinaturas`, visibilidade **Public**, sem README.
-2. Na tela seguinte, clique em **uploading an existing file** e arraste os quatro arquivos desta pasta, inclusive o `.nojekyll`. Confirme em **Commit changes**.
-3. Abra **Settings**, menu lateral **Pages**. Em Source escolha **Deploy from a branch**, branch `main`, pasta `/ (root)`, e salve.
-4. Espere de um a dois minutos e recarregue a tela de Pages. O endereço publicado aparece no topo.
-5. Abra o endereço. A linha logo abaixo do título mostra o endereço oficial e o campo do logo já vem preenchido.
+O site já está no ar. A configuração usa GitHub Pages em **Settings**, **Pages**, com Source em **Deploy from a branch**, branch `main` e pasta `/ (root)`. Qualquer commit no `main` republica a página em cerca de um minuto.
 
 ## Como a equipe usa
 
